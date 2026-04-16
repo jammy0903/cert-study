@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "name": "김소정",
+    "created": "2026-04-10",
+    "last_updated": "2026-04-10",
+    "total_asked": 58,
+    "total_wrong": 33,
+    "session_count": 1
+  },
+  "topics": {
+    "Security": {
+      "_total": { "asked": 4, "wrong": 0 },
+      "OTP": { "asked": 0, "wrong": 0 },
+      "OAuth": { "asked": 0, "wrong": 0 },
+      "MAC_RBAC_DAC": { "asked": 1, "wrong": 0 },
+      "malware_types": { "asked": 0, "wrong": 0 },
+      "SSH_L2TP_VPN": { "asked": 0, "wrong": 0 },
+      "encryption_symmetric_asymmetric": { "asked": 1, "wrong": 0 },
+      "error_detection_FEC_BEC_CRC_Hamming": { "asked": 0, "wrong": 0 },
+      "firewall_IDS_IPS": { "asked": 0, "wrong": 0 },
+      "attack_types_XSS_CSRF_SQL_injection": { "asked": 2, "wrong": 0 },
+      "other": { "asked": 0, "wrong": 0 }
+    },
+    "Networking": {
+      "_total": { "asked": 5, "wrong": 4 },
+      "OSI_7_layer": { "asked": 1, "wrong": 1 },
+      "TCP_IP_protocol": { "asked": 0, "wrong": 0 },
+      "IP_addressing_subnetting": { "asked": 3, "wrong": 3 },
+      "routing_protocols": { "asked": 0, "wrong": 0 },
+      "HTTP_HTTPS_REST": { "asked": 1, "wrong": 0 },
+      "switching_VLAN": { "asked": 0, "wrong": 0 },
+      "AJAX_web_technology": { "asked": 0, "wrong": 0 },
+      "other": { "asked": 0, "wrong": 0 }
+    },
+    "Database": {
+      "_total": { "asked": 7, "wrong": 5 },
+      "normalization": { "asked": 1, "wrong": 0 },
+      "transaction_ACID": { "asked": 1, "wrong": 1 },
+      "concurrency_control_locking": { "asked": 0, "wrong": 0 },
+      "index_structure": { "asked": 0, "wrong": 0 },
+      "ER_diagram_schema": { "asked": 0, "wrong": 0 },
+      "recovery_backup": { "asked": 0, "wrong": 0 },
+      "relational_algebra": { "asked": 1, "wrong": 0 },
+      "other": { "asked": 3, "wrong": 3 }
+    },
+    "SQL": {
+      "_total": { "asked": 6, "wrong": 4 },
+      "SELECT_WHERE_JOIN": { "asked": 3, "wrong": 2 },
+      "GROUP_BY_HAVING": { "asked": 1, "wrong": 1 },
+      "subquery": { "asked": 1, "wrong": 1 },
+      "INSERT_UPDATE_DELETE": { "asked": 0, "wrong": 0 },
+      "DDL_CREATE_ALTER_DROP": { "asked": 0, "wrong": 0 },
+      "aggregate_functions": { "asked": 0, "wrong": 0 },
+      "window_functions": { "asked": 0, "wrong": 0 },
+      "other": { "asked": 1, "wrong": 0 }
+    },
+    "SoftwareEngineering": {
+      "_total": { "asked": 2, "wrong": 1 },
+      "design_patterns": { "asked": 1, "wrong": 1 },
+      "UML_diagrams": { "asked": 0, "wrong": 0 },
+      "SDLC_models": { "asked": 0, "wrong": 0 },
+      "agile_scrum": { "asked": 0, "wrong": 0 },
+      "testing_types_coverage": { "asked": 0, "wrong": 0 },
+      "coupling_cohesion": { "asked": 1, "wrong": 0 },
+      "software_metrics_complexity": { "asked": 0, "wrong": 0 },
+      "requirements_analysis": { "asked": 0, "wrong": 0 },
+      "other": { "asked": 0, "wrong": 0 }
+    },
+    "OS": {
+      "_total": { "asked": 7, "wrong": 4 },
+      "process_scheduling": { "asked": 3, "wrong": 1 },
+      "memory_management_paging": { "asked": 2, "wrong": 1 },
+      "deadlock": { "asked": 1, "wrong": 1 },
+      "semaphore_mutex": { "asked": 0, "wrong": 0 },
+      "file_system": { "asked": 0, "wrong": 0 },
+      "Linux_commands": { "asked": 1, "wrong": 1 },
+      "other": { "asked": 2, "wrong": 2 }
+    },
+    "Java": {
+      "_total": { "asked": 3, "wrong": 1 },
+      "OOP_class_inheritance": { "asked": 1, "wrong": 0 },
+      "exception_handling": { "asked": 1, "wrong": 1 },
+      "interface_abstract": { "asked": 0, "wrong": 0 },
+      "static_final": { "asked": 1, "wrong": 0 },
+      "collections_generics": { "asked": 0, "wrong": 0 },
+      "exception_handling": { "asked": 0, "wrong": 0 },
+      "lambda_functional": { "asked": 0, "wrong": 0 },
+      "output_tracing": { "asked": 0, "wrong": 0 },
+      "other": { "asked": 0, "wrong": 0 }
+    },
+    "C": {
+      "_total": { "asked": 2, "wrong": 0 },
+      "pointers": { "asked": 1, "wrong": 0 },
+      "memory_allocation_malloc_free": { "asked": 1, "wrong": 0 },
+      "structs": { "asked": 0, "wrong": 0 },
+      "memory_allocation_malloc_free": { "asked": 0, "wrong": 0 },
+      "recursion": { "asked": 0, "wrong": 0 },
+      "bitwise_operators": { "asked": 0, "wrong": 0 },
+      "output_tracing": { "asked": 0, "wrong": 0 },
+      "other": { "asked": 0, "wrong": 0 }
+    },
+    "Python": {
+      "_total": { "asked": 2, "wrong": 1 },
+      "list_comprehension": { "asked": 1, "wrong": 1 },
+      "lambda_map_filter": { "asked": 1, "wrong": 0 },
+      "class_inheritance": { "asked": 0, "wrong": 0 },
+      "built_in_functions": { "asked": 0, "wrong": 0 },
+      "output_tracing": { "asked": 0, "wrong": 0 },
+      "other": { "asked": 0, "wrong": 0 }
+    }
+  }
+}
