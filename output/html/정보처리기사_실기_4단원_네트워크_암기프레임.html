@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>정보처리기사 실기 4단원 네트워크 암기 프레임</title>
+  <link rel="stylesheet" href="./memory-frame.css">
+</head>
+<body>
+  <main class="shell">
+    <a class="back-link" href="./index.html">← HTML 목록으로</a>
+
+    <section class="hero">
+      <p class="eyebrow">정보처리기사 실기 4단원</p>
+      <h1>네트워크 암기 프레임</h1>
+      <p class="hero-copy">층, 주소, 라우팅, URL, 전송 프로토콜, Web Service, HDLC를 카드로 나눈 반응형 정리입니다. 단어를 보면 먼저 어느 카드에 들어가는지 고르는 방식으로 외우면 덜 꼬입니다.</p>
+      <div class="ribbon">
+        <span class="route-pill">계층</span>
+        <span class="route-pill">주소 / IP</span>
+        <span class="route-pill">라우팅 / 교환</span>
+        <span class="route-pill">URL / 웹</span>
+        <span class="route-pill">전송 / 응용 프로토콜</span>
+        <span class="route-pill">HDLC / Web Service</span>
+      </div>
+    </section>
+
+    <section class="frame-grid three-up">
+      <article class="card card--blue">
+        <header class="card-head">
+          <h3>1. OSI / 프로토콜 기본</h3>
+          <p>계층 문제와 구문·의미·타이밍</p>
+        </header>
+        <div class="card-body">
+          <div class="osi-layout">
+            <div class="stack">
+              <div class="stack-layer">7 응용</div>
+              <div class="stack-layer">6 표현</div>
+              <div class="stack-layer">5 세션</div>
+              <div class="stack-layer">4 전송</div>
+              <div class="stack-layer">3 네트워크</div>
+              <div class="stack-layer">2 데이터링크</div>
+              <div class="stack-layer">1 물리</div>
+            </div>
+            <div>
+              <ul class="bullet-list">
+                <li>전송 = 종단 간 신뢰성 전송</li>
+                <li>세션 = 연결 설정 / 동기화</li>
+                <li>표현 = 형식 변환 / 암호화 / 압축</li>
+                <li>응용 = 사용자 서비스와 가장 가까움</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="chip-grid three-col" style="margin-top:14px;">
+            <div class="mini-chip blue"><strong>구문</strong><span>Syntax / 형식·구조</span></div>
+            <div class="mini-chip blue"><strong>의미</strong><span>Semantic / 각 필드 뜻</span></div>
+            <div class="mini-chip blue"><strong>타이밍</strong><span>Timing / 순서·속도·시점</span></div>
+          </div>
+        </div>
+      </article>
+
+      <article class="card card--green">
+        <header class="card-head">
+          <h3>2. 주소 / IP</h3>
+          <p>IP 비트수, 변환, 주소 역할</p>
+        </header>
+        <div class="card-body">
+          <div class="chip-grid three-col">
+            <div class="mini-chip green"><strong>IPv6</strong><span>128bit</span></div>
+            <div class="mini-chip green"><strong>NAT</strong><span>사설 IP → 공인 IP</span></div>
+            <div class="mini-chip green"><strong>VPN</strong><span>공용망 위 사설망처럼</span></div>
+          </div>
+
+          <div class="arrow-strip">
+            <div class="arrow-box">
+              <strong>ARP</strong>
+              <span>IP → MAC</span>
+            </div>
+            <div class="arrow">↔</div>
+            <div class="arrow-box">
+              <strong>RARP</strong>
+              <span>MAC → IP</span>
+            </div>
+          </div>
+
+          <div class="chip-grid three-col">
+            <div class="mini-chip green"><strong>네트워크 주소</strong><span>서브넷 자체</span></div>
+            <div class="mini-chip green"><strong>브로드캐스트</strong><span>전체 호스트</span></div>
+            <div class="mini-chip green"><strong>/26</strong><span>사용 가능 62 hosts</span></div>
+          </div>
+        </div>
+      </article>
+
+      <article class="card card--amber">
+        <header class="card-head">
+          <h3>3. 라우팅 / 교환</h3>
+          <p>내부냐 외부냐, 경로냐 홉수냐</p>
+        </header>
+        <div class="card-body">
+          <div class="protocol-row">
+            <div class="mini-chip amber"><strong>IGP</strong><span>AS 내부 라우팅</span></div>
+            <div class="mini-chip amber"><strong>EGP</strong><span>AS 간 라우팅</span></div>
+          </div>
+
+          <div class="card-note" style="margin-top:0;">외부에서 실제 대표 프로토콜 이름은 <strong>BGP</strong></div>
+
+          <div class="chip-grid three-col" style="margin-top:14px;">
+            <div class="mini-chip amber"><strong>RIP</strong><span>홉 수 / 거리 벡터</span></div>
+            <div class="mini-chip amber"><strong>OSPF</strong><span>링크 상태 / 최단 경로</span></div>
+            <div class="mini-chip amber"><strong>BGP</strong><span>AS 간 경로 / 외부 라우팅</span></div>
+          </div>
+
+          <div class="chip-grid three-col" style="margin-top:14px;">
+            <div class="mini-chip amber"><strong>데이터그램</strong><span>경로 설정 X</span></div>
+            <div class="mini-chip amber"><strong>가상회선</strong><span>먼저 경로 설정</span></div>
+            <div class="mini-chip amber"><strong>ATM</strong><span>고정 길이 셀</span></div>
+          </div>
+        </div>
+      </article>
+
+      <article class="card card--violet">
+        <header class="card-head">
+          <h3>4. URL / 웹 기본</h3>
+          <p>`?` 뒤, `#` 뒤, 문서 구조 구분</p>
+        </header>
+        <div class="card-body">
+          <div class="url-bar">
+            <span class="url-segment scheme">scheme</span>
+            <span class="url-segment authority">authority</span>
+            <span class="url-segment path">path</span>
+            <span class="url-segment query">query</span>
+            <span class="url-segment fragment">fragment</span>
+          </div>
+
+          <ul class="bullet-list" style="margin-top:14px;">
+            <li>scheme = https://</li>
+            <li>authority = 호스트명·포트</li>
+            <li>path = /board/list</li>
+            <li>query = ? 뒤</li>
+            <li>fragment = # 뒤</li>
+          </ul>
+
+          <div class="chip-grid three-col" style="margin-top:14px;">
+            <div class="mini-chip violet"><strong>Hypertext</strong><span>링크로 이동하는 텍스트 구조</span></div>
+            <div class="mini-chip violet"><strong>HTML</strong><span>웹 문서 구조</span></div>
+            <div class="mini-chip violet"><strong>HTTP</strong><span>하이퍼텍스트 통신</span></div>
+          </div>
+
+          <div class="protocol-row" style="margin-top:14px; margin-bottom:0;">
+            <div class="mini-chip violet"><strong>AJAX</strong><span>새로고침 없는 비동기</span></div>
+            <div class="mini-chip violet"><strong>JSON / HTTPS</strong><span>키-값 / HTTP + TLS·SSL</span></div>
+          </div>
+        </div>
+      </article>
+
+      <article class="card card--rose">
+        <header class="card-head">
+          <h3>5. 전송 / 응용 프로토콜</h3>
+          <p>연결형 / 비연결형과 주요 서비스</p>
+        </header>
+        <div class="card-body">
+          <div class="protocol-row">
+            <div class="mini-chip rose"><strong>TCP</strong><span>연결형 / 신뢰성 O</span></div>
+            <div class="mini-chip rose"><strong>UDP</strong><span>비연결형 / 빠르지만 보장 적음</span></div>
+          </div>
+
+          <div class="chip-grid four-col">
+            <div class="mini-chip rose"><strong>FTP</strong><span>파일</span></div>
+            <div class="mini-chip rose"><strong>SMTP</strong><span>송신</span></div>
+            <div class="mini-chip rose"><strong>POP3</strong><span>내려받기</span></div>
+            <div class="mini-chip rose"><strong>IMAP</strong><span>서버 동기화</span></div>
+          </div>
+
+          <div class="chip-grid three-col" style="margin-top:14px;">
+            <div class="mini-chip rose"><strong>ICMP</strong><span>오류 보고·제어 메시지</span></div>
+            <div class="mini-chip rose"><strong>SSH</strong><span>암호화 원격 접속</span></div>
+            <div class="mini-chip rose"><strong>L2TP</strong><span>2계층 터널링</span></div>
+          </div>
+        </div>
+      </article>
+
+      <article class="card card--steel">
+        <header class="card-head">
+          <h3>6. Web Service / HDLC / 기타</h3>
+          <p>설명서 / 호출 / 등록, 그리고 프레임과 모드</p>
+        </header>
+        <div class="card-body">
+          <div class="chip-grid three-col">
+            <div class="mini-chip steel"><strong>WSDL</strong><span>설명서</span></div>
+            <div class="mini-chip steel"><strong>SOAP</strong><span>XML 호출 메시지</span></div>
+            <div class="mini-chip steel"><strong>UDDI</strong><span>등록 / 검색</span></div>
+          </div>
+
+          <div class="chip-grid three-col" style="margin-top:14px;">
+            <div class="mini-chip steel"><strong>I 프레임</strong><span>정보 프레임</span></div>
+            <div class="mini-chip steel"><strong>S 프레임</strong><span>감독 프레임</span></div>
+            <div class="mini-chip steel"><strong>U 프레임</strong><span>비번호 프레임</span></div>
+          </div>
+
+          <div class="chip-grid three-col" style="margin-top:14px;">
+            <div class="mini-chip steel"><strong>NRM</strong><span>정상응답 / 허가 후 응답</span></div>
+            <div class="mini-chip steel"><strong>ARM</strong><span>비동기응답 / 선택 응답</span></div>
+            <div class="mini-chip steel"><strong>ABM</strong><span>비동기균형 / 양측 대등</span></div>
+          </div>
+
+          <div class="card-note">추가로 자주 보이는 것: Ad-hoc = 고정 인프라 없이 / IaaS·PaaS·SaaS = 인프라·플랫폼·소프트웨어 서비스</div>
+        </div>
+      </article>
+    </section>
+
+    <div class="footer-note">HTML은 카드 높이를 고정하지 않아서 PDF처럼 overflow가 옆 카드 아래로 숨어버리는 문제가 없습니다. 모바일에서는 자동으로 1열로 바뀝니다.</div>
+  </main>
+</body>
+</html>
