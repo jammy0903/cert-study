@@ -1,0 +1,1145 @@
+{
+  "id": "06",
+  "title": "테크니컬 커뮤니케이션과 프로젝트 관리",
+  "chapters": [
+    {
+      "title": "비즈니스 커뮤니케이션",
+      "sections": [
+        {
+          "title": "비즈니스 커뮤니케이션 개념 및 요소",
+          "concepts": [
+            {
+              "title": "비즈니스 커뮤니케이션의 정의",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "비즈니스 커뮤니케이션의 요소",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "비즈니스 커뮤니케이션 방법",
+          "concepts": [
+            {
+              "title": "상향식, 하향식, 수평식 비즈니스 커뮤니케이션",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "비즈니스 문제해결 개념",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "비즈니스 문제해결 기법",
+          "concepts": [
+            {
+              "title": "비즈니스 문제해결 개념",
+              "keywords": [
+                "활동들",
+                "일체",
+                "프로세스"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "비즈니스 문제해결 프로세스",
+              "keywords": [
+                "활동들",
+                "일체",
+                "프로세스"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "논리적 설명과 설득방법",
+              "keywords": [
+                "활동들",
+                "일체",
+                "프로세스"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "창의적 사고기법",
+              "keywords": [
+                "활동들",
+                "일체",
+                "프로세스"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "논리적 사고기법",
+              "keywords": [
+                "활동들",
+                "일체",
+                "프로세스"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "합리적 의사결정 기법",
+              "keywords": [
+                "활동들",
+                "일체",
+                "프로세스"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "문제해결 능력",
+              "keywords": [
+                "활동들",
+                "일체",
+                "프로세스"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "비즈니스 문서의 개념과 종류",
+          "concepts": [
+            {
+              "title": "비즈니스 문서의 개념",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "비즈니스 문서의 종류",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "비즈니스 문",
+          "concepts": [
+            {
+              "title": "비즈니스 문서 작성 방법",
+              "keywords": [
+                "커뮤니케이션"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "회의록 작성 방법",
+              "keywords": [
+                "커뮤니케이션"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "이메일 작성 방법",
+              "keywords": [
+                "커뮤니케이션"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "비즈니스 문서",
+              "keywords": [
+                "커뮤니케이션"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "테크니컬 문서 작성",
+      "sections": [
+        {
+          "title": "테크니컬 문서 개념과 종류",
+          "concepts": [
+            {
+              "title": "테크니컬 문서의 정의",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "테크니컬 문서의 특징",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "테크니컬 문서의 종류",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "테크니컬 문서작성 시 유의사항",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "명확한 테크니컬 문서 작성",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "테크니컬 문서 작성의 원칙과 방",
+          "concepts": [
+            {
+              "title": "테크니컬 문서작성 시 표현 및 서술방식",
+              "keywords": [
+                "논거",
+                "원인분석",
+                "문제정의",
+                "자료수집",
+                "속성들",
+                "과정",
+                "사전",
+                "방법",
+                "발상",
+                "대안개발"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "테크니컬 문서 작성",
+          "concepts": [
+            {
+              "title": "사업계획서(기획서)",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "제안서",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "투입공수 산정법(4, Man/Month)",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "기능점수법(FP,",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "목적에 부합하는 테크니컬 문서 작성",
+          "concepts": [
+            {
+              "title": "테크니컬 문서 작성을 위한 핵심 처크리스트",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "테크니컬 문서 작성을 위한 핵심 체크리스트",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프레젠테이션 목적",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프레젠테이션 과정",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "시나리오 작성",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "전체 자료 구성",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "발표 자료 작성",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "테크니컬 문서",
+          "concepts": [
+            {
+              "title": "사업계획서(기획서)",
+              "keywords": [
+                "보고서:",
+                "설명서",
+                "의견세",
+                "문서",
+                "기획서:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "정보제공요청서(RFI: Request For Information)",
+              "keywords": [
+                "보고서:",
+                "설명서",
+                "의견세",
+                "문서",
+                "기획서:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "제안요청서(RFP: Request For Proposal)",
+              "keywords": [
+                "보고서:",
+                "설명서",
+                "의견세",
+                "문서",
+                "기획서:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "제안서",
+              "keywords": [
+                "보고서:",
+                "설명서",
+                "의견세",
+                "문서",
+                "기획서:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "분석서",
+              "keywords": [
+                "보고서:",
+                "설명서",
+                "의견세",
+                "문서",
+                "기획서:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "설계서",
+              "keywords": [
+                "보고서:",
+                "설명서",
+                "의견세",
+                "문서",
+                "기획서:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "테스트 설계서",
+              "keywords": [
+                "보고서:",
+                "설명서",
+                "의견세",
+                "문서",
+                "기획서:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "설명서",
+              "keywords": [
+                "보고서:",
+                "설명서",
+                "의견세",
+                "문서",
+                "기획서:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트완료 보고서",
+              "keywords": [
+                "보고서:",
+                "설명서",
+                "의견세",
+                "문서",
+                "기획서:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "프레젠테이션",
+      "sections": [
+        {
+          "title": "프레젠테이션 구상 및 준비절차",
+          "concepts": [
+            {
+              "title": "프레젠테이션 목적",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프레젠테이션 과정",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "발표 시나리오 구상",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "발표 자료 작성",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "시나리오 작성",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "프레젠테이션 자료 작성 기법",
+          "concepts": [
+            {
+              "title": "전체 자료 구성",
+              "keywords": [
+                "날짜:",
+                "관련근거:",
+                "내용은",
+                "업무",
+                "주요",
+                "대결",
+                "과정이",
+                "채용/배치/경력개발",
+                "구성원의",
+                "개요:",
+                "시행문이",
+                "첨부:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "발표 자료 검토",
+              "keywords": [
+                "날짜:",
+                "관련근거:",
+                "내용은",
+                "업무",
+                "주요",
+                "대결",
+                "과정이",
+                "채용/배치/경력개발",
+                "구성원의",
+                "개요:",
+                "시행문이",
+                "첨부:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프레젠테이션 도구",
+              "keywords": [
+                "날짜:",
+                "관련근거:",
+                "내용은",
+                "업무",
+                "주요",
+                "대결",
+                "과정이",
+                "채용/배치/경력개발",
+                "구성원의",
+                "개요:",
+                "시행문이",
+                "첨부:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "바디랭귀지의 효과적인 활:",
+              "keywords": [
+                "날짜:",
+                "관련근거:",
+                "내용은",
+                "업무",
+                "주요",
+                "대결",
+                "과정이",
+                "채용/배치/경력개발",
+                "구성원의",
+                "개요:",
+                "시행문이",
+                "첨부:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "프레젠테이션 실행 방법",
+          "concepts": [
+            {
+              "title": "현장발표 전, 점검 체크리스트",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "바디랭귀지의 효과적인 활용",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "작업분류체계(WBS: Work Breakdown Structure)",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "일정개발 기법-임계경로기법(^: Critical Path Method)",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "일정개발 기법-주공정연쇄기법(0: Critical Chain Method)",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "일정단 tz 기법 공정압축법과 공정중첩단축법",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "원가개념",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "원가관리의 중요성",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "원가관리의 개념",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "프로젝트 관리 기초",
+      "sections": [
+        {
+          "title": "프로젝트 개념",
+          "concepts": [
+            {
+              "title": "프로젝트 정의",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트 관리자의 책임과 역할",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "실무 프로젝트 사례",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "프로젝트 조직구조와 역할",
+          "concepts": [
+            {
+              "title": "프로젝트 조직구조",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트 전담조직(PMO)",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트 기획 및 착수",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트관리 영역",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "범위관리 개념",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "작업분류체계(WBS: Work Breakdown Structure)",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "프로젝트 모니터링 및 평가의 개념",
+          "concepts": [
+            {
+              "title": "프로젝트 모니터링 및 평가의 개념",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트 평가 수행",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트 평가단계와 주안점",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "비즈니스 커뮤니케이션의 유형",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "프로젝트관리 도구 이해",
+          "concepts": [
+            {
+              "title": "프로젝트관리 도구(Project Management System, PMS)",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트 평가 수행",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트 평가단계와 주안점",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "SAtet의 =51(Configuration Management System, CMS)",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "프로젝트 관리시스템 활용의 장점",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "일정 & 원가 관리",
+      "sections": [
+        {
+          "title": "일정관리 개념과 프로세스",
+          "concepts": [
+            {
+              "title": "일정관리 개념",
+              "keywords": [
+                "분석서",
+                "테스트",
+                "설명서",
+                "가발"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "일정개발 기법-임계경로기법(4: Critical Path Method)",
+              "keywords": [
+                "분석서",
+                "테스트",
+                "설명서",
+                "가발"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "원가관리의 개념",
+          "concepts": [
+            {
+              "title": "원가개념",
+              "keywords": [
+                "역할",
+                "기술",
+                "하나의"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "원가관리의 중요성",
+              "keywords": [
+                "역할",
+                "기술",
+                "하나의"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "원가관리의 개념",
+              "keywords": [
+                "역할",
+                "기술",
+                "하나의"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "원가관리 프로세스",
+          "concepts": [
+            {
+              "title": "원가관리 계획수립",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "원가산정",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "원가산정 기법",
+          "concepts": [
+            {
+              "title": "기능점수법(FP, Function Point)",
+              "keywords": [
+                "계획사업에",
+                "대상",
+                "제품의",
+                "테스트의",
+                "가정",
+                "데이터",
+                "사용",
+                "수행"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "투입공수 산정법(4, Man/Month)",
+              "keywords": [
+                "계획사업에",
+                "대상",
+                "제품의",
+                "테스트의",
+                "가정",
+                "데이터",
+                "사용",
+                "수행"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "원가집행 관리기법-획득가치 관리",
+          "concepts": [
+            {
+              "title": "획득가치 개념",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "획득가치 관리방법",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "품질 & 위험 관리",
+      "sections": [
+        {
+          "title": "품질관리의 개념",
+          "concepts": [
+            {
+              "title": "소프트웨어 품질 개념",
+              "keywords": [
+                "기타:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "품질관리 개념",
+              "keywords": [
+                "기타:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "품질 관리 프로세스",
+          "concepts": [
+            {
+              "title": "품질계획",
+              "keywords": [
+                "역할",
+                "주쟁(핵심",
+                "적절한",
+                "오프닝은",
+                "독창적인",
+                "발표사료의",
+                "일반적으로",
+                "1페이지",
+                "목차는",
+                "짧아서",
+                "적절하고",
+                "발표"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "품질보증",
+              "keywords": [
+                "역할",
+                "주쟁(핵심",
+                "적절한",
+                "오프닝은",
+                "독창적인",
+                "발표사료의",
+                "일반적으로",
+                "1페이지",
+                "목차는",
+                "짧아서",
+                "적절하고",
+                "발표"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "품질통제",
+              "keywords": [
+                "역할",
+                "주쟁(핵심",
+                "적절한",
+                "오프닝은",
+                "독창적인",
+                "발표사료의",
+                "일반적으로",
+                "1페이지",
+                "목차는",
+                "짧아서",
+                "적절하고",
+                "발표"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "품질표준",
+              "keywords": [
+                "역할",
+                "주쟁(핵심",
+                "적절한",
+                "오프닝은",
+                "독창적인",
+                "발표사료의",
+                "일반적으로",
+                "1페이지",
+                "목차는",
+                "짧아서",
+                "적절하고",
+                "발표"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "위험관리의 개념",
+          "concepts": [
+            {
+              "title": "위험분석: 정성적 위험분석",
+              "keywords": [],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        },
+        {
+          "title": "위험관리 프로세스",
+          "concepts": [
+            {
+              "title": "위험식별",
+              "keywords": [
+                "시작",
+                "주먹을",
+                "리허설",
+                "유사",
+                "프러젠테이션",
+                "인사",
+                "느낌이",
+                "프로젝트",
+                "조직구조:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "위험통제",
+              "keywords": [
+                "시작",
+                "주먹을",
+                "리허설",
+                "유사",
+                "프러젠테이션",
+                "인사",
+                "느낌이",
+                "프로젝트",
+                "조직구조:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            },
+            {
+              "title": "위험대응",
+              "keywords": [
+                "시작",
+                "주먹을",
+                "리허설",
+                "유사",
+                "프러젠테이션",
+                "인사",
+                "느낌이",
+                "프로젝트",
+                "조직구조:"
+              ],
+              "background": "",
+              "explanation": "",
+              "mnemonic": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
