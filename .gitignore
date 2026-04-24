@@ -1,1 +1,4 @@
 TOPCIT ESSENCE ver.3.zip
+__pycache__/
+*.pyc
+topcit_progress.json
